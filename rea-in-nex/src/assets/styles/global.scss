@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 16px;
+  font-weight: 400;
+  color: #1a1114;
+  line-height: 26px;
+
+  a {
+    text-decoration: none;
+    color: #1a1114;
+  }
+}
+
+.container {
+  max-width: 1410px;
+  margin: 0 auto;
+  padding: 0 20px;
+}

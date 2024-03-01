@@ -1,0 +1,9 @@
+.top-bar {
+    background: #fff;
+    padding: 6px 0;
+    &__wrap {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
